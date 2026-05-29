@@ -58,7 +58,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://https://myportfolio-production-358a.up.railway.app/"><img src="https://img.shields.io/badge/Website-a855f7?style=for-the-badge&logoColor=white" alt="Website"/></a>
+  <a href="https://myportfolio-production-358a.up.railway.app/"><img src="https://img.shields.io/badge/Website-a855f7?style=for-the-badge&logoColor=white" alt="Website"/></a>
   &nbsp;&nbsp;
   <a href="mailto:carljurkovski@gmail.com"><img src="https://img.shields.io/badge/Contact-EA4335?style=for-the-badge&logoColor=white" alt="Email"/></a>
 </div>
